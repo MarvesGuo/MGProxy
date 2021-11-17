@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-MGWebkit/Pods-MGWebkit-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/Reachability/Reachability.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/YYKit/YYKit.framework

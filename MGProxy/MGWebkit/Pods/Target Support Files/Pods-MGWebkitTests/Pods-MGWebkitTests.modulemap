@@ -1,0 +1,6 @@
+framework module Pods_MGWebkitTests {
+  umbrella header "Pods-MGWebkitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

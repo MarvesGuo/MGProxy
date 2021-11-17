@@ -1,0 +1,24 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'MGWebkit' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for MGWebkit
+
+  pod 'Reachability'
+  pod 'YYKit'
+  pod 'AFNetworking'
+  pod 'SDWebImage'
+
+  target 'MGWebkitTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'MGWebkitUITests' do
+    # Pods for testing
+  end
+
+end
